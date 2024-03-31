@@ -11,5 +11,9 @@ This repositry includes my learning path of AI-ML. I will be regularly pushing t
 3. Reference:
     - Videos: [StatQuest](https://youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9&si=_UD25TpcrhNjuOGq), [3Blue1Brown for Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=3roXmcQcoJR9P7aC), [3Blue1Brown for Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr&si=CZHBCVuf-qr8vz2L)  
     - Notes: [Statistics Notes](BasicStatistics/Statistics.pdf)
+## Learning Libraries (Pandas and Numpy)
+1. Basic operations of Pandas like read_csv, merge, concat etc.
+2. Basic operations of Numpy like array creation, min/max operation etc.
+3. Plotting of graphs using matplotlib and seaborn library.
 
-
+Reference: [Pandas, Matplotlib and Seaborn](https://codebasics.io/courses/math-and-statistics-for-data-science/lecture/1540), [Numpy](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
