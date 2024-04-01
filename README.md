@@ -17,3 +17,9 @@ This repositry includes my learning path of AI-ML. I will be regularly pushing t
 3. Plotting of graphs using matplotlib and seaborn library.
 
 Reference: [Pandas, Matplotlib and Seaborn](https://codebasics.io/courses/math-and-statistics-for-data-science/lecture/1540), [Numpy](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
+
+## Performing EDA
+1. Univariate, Bivariate and Multivariate Analysis
+2. Removing outliers and drawing conclusions from EDA
+3. Performed on Titanic Dataset predicting reasons for death and IPL auction'23 Dataset predicting player demand ([Link](https://www.youtube.com/watch?v=PPEHpg2RixQ))
+
