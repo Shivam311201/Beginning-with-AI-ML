@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyPcqIUBFdbx858JXzgcAX3Q",
+      "authorship_tag": "ABX9TyMw2NWERa/2DfkiWD1n+1Wi",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,8 +23,17 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/Shivam311201/Beginning-with-AI-ML/blob/master/Machine%20Learning/Random%20Forest/Exercise.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/Shivam311201/Beginning-with-AI-ML/blob/master/Machine%20Learning/Random%20Forest\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "Random Forest build multiple decision trees, based on training dataset and decides the final result based on majority votes."
+      ],
+      "metadata": {
+        "id": "5ZP86j-Z9UhS"
+      }
     },
     {
       "cell_type": "code",
@@ -514,7 +523,7 @@
       "cell_type": "code",
       "source": [
         "from sklearn.ensemble import RandomForestClassifier\n",
-        "model = RandomForestClassifier(n_estimators=40)\n",
+        "model = RandomForestClassifier(n_estimators=40)  # n_estimators -> number of decision trees to build\n",
         "model.fit(X_train, y_train)"
       ],
       "metadata": {
